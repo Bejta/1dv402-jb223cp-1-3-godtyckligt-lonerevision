@@ -1,0 +1,6 @@
+C:\Users\Jasmin\Documents\Webbprogrammerare\1dv402-jb223cp-1-3-gotycklig-lonerevision\1DV402.S1.L03B\1DV402.S1.L03B\bin\Debug\1DV402.S1.L03B.exe.config
+C:\Users\Jasmin\Documents\Webbprogrammerare\1dv402-jb223cp-1-3-gotycklig-lonerevision\1DV402.S1.L03B\1DV402.S1.L03B\bin\Debug\1DV402.S1.L03B.exe
+C:\Users\Jasmin\Documents\Webbprogrammerare\1dv402-jb223cp-1-3-gotycklig-lonerevision\1DV402.S1.L03B\1DV402.S1.L03B\bin\Debug\1DV402.S1.L03B.pdb
+C:\Users\Jasmin\Documents\Webbprogrammerare\1dv402-jb223cp-1-3-gotycklig-lonerevision\1DV402.S1.L03B\1DV402.S1.L03B\obj\Debug\1DV402.S1.L03B.csprojResolveAssemblyReference.cache
+C:\Users\Jasmin\Documents\Webbprogrammerare\1dv402-jb223cp-1-3-gotycklig-lonerevision\1DV402.S1.L03B\1DV402.S1.L03B\obj\Debug\1DV402.S1.L03B.exe
+C:\Users\Jasmin\Documents\Webbprogrammerare\1dv402-jb223cp-1-3-gotycklig-lonerevision\1DV402.S1.L03B\1DV402.S1.L03B\obj\Debug\1DV402.S1.L03B.pdb
